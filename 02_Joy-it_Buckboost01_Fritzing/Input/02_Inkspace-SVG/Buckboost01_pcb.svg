@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   gorn="0"
+   height="30.480001mm"
+   id="svg2"
+   shape-rendering="crispEdges"
+   version="1.2"
+   viewBox="0 0 600.00004 1200.0001"
+   width="15.240001mm"
+   x="0in"
+   y="0in"
+   sodipodi:docname="Buckboost01_Schematic_pcb.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="9.3797531"
+     inkscape:cx="2.2388649"
+     inkscape:cy="50.907524"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="silkscreen">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="100.00001"
+       spacingy="100.00001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25" />
+  <desc
+     id="desc4">
+    <referenceFile>XT30PW-M_1_pcb.svg</referenceFile>
+  </desc>
+  <g
+     gorn="0.3"
+     id="silkscreen">
+    <g
+       id="g6">
+      <rect
+         fill="none"
+         gorn="0.3.0"
+         height="346.45676"
+         id="rect2"
+         stroke="#000000"
+         stroke-width="9.99984"
+         width="233.70094"
+         x="4.9999199"
+         y="88.464485" />
+      <path
+         d="m 319.96054,36.49624 c 0.65157,-20.003921 19.45819,-31.1801005 39.37007,-31.4960605 20.40181,0.0923 39.65215,15.8908295 39.37008,31.4960605 v 82.67716 h 78.74015 v 299.21257 h -78.74015 v 78.74016 c -8.26022,14.66691 -20.8415,22.13205 -39.37008,19.68503 -26.76067,1.83052 -34.59309,-7.98713 -39.37007,-19.68503 V 461.69306 L 238.99992,462 c 0,0 -0.41928,-388.700766 -0.37796,-390.070692 h 81.33858 z"
+         fill="none"
+         gorn="0.3.1"
+         id="upper"
+         stroke="#000000"
+         stroke-width="10" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.7778px;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="128.32527"
+         y="258.82541"
+         id="text1"
+         inkscape:label="text1 input voltage"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.7778px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="128.32527"
+           y="258.82541">Input voltages</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(0,600.00002)">
+      <rect
+         fill="none"
+         gorn="0.3.0"
+         height="346.45676"
+         id="rect6"
+         stroke="#000000"
+         stroke-width="9.99984"
+         width="233.70094"
+         x="4.9999199"
+         y="88.464485" />
+      <path
+         d="m 319.96054,36.49624 c 0.65157,-20.003921 19.45819,-31.1801005 39.37007,-31.4960605 20.40181,0.0923 39.65215,15.8908295 39.37008,31.4960605 v 82.67716 h 78.74015 v 299.21257 h -78.74015 v 78.74016 c -8.26022,14.66691 -20.8415,22.13205 -39.37008,19.68503 -26.76067,1.83052 -34.59309,-7.98713 -39.37007,-19.68503 V 461.69306 L 238.99992,462 c 0,0 -0.41928,-388.700766 -0.37796,-390.070692 h 81.33858 z"
+         fill="none"
+         gorn="0.3.1"
+         id="path6"
+         stroke="#000000"
+         stroke-width="10" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.7778px;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="107.58282"
+         y="255.68149"
+         id="text2"
+         inkscape:label="text2 output voltage"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="stroke-width:0"
+           x="107.58282"
+           y="255.68149">Output voltages</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.7778px;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="34.877422"
+       y="1166.2235"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0"
+         x="34.877422"
+         y="1166.2235">Joy-It Buckbous01</tspan></text>
+  </g>
+  <g
+     gorn="0.4"
+     id="copper1">
+    <g
+       gorn="0.4.0"
+       id="copper0">
+      <g
+         id="g1">
+        <circle
+           cx="358.46445"
+           cy="45.70866"
+           fill="#000000"
+           gorn="0.4.0.0"
+           id="via1"
+           stroke="none"
+           stroke-width="20"
+           inkscape:label="mechanical non connecting via1"
+           r="30"
+           style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-opacity:1" />
+        <circle
+           cx="358.46445"
+           cy="478.78891"
+           fill="#000000"
+           gorn="0.4.0.1"
+           id="via2"
+           r="30"
+           stroke="none"
+           stroke-width="20"
+           inkscape:label="mechanical non connecting via2"
+           style="fill:none;stroke:#ffbf00;stroke-opacity:1" />
+        <g
+           id="g3">
+          <circle
+             cx="543.54828"
+             cy="163.46484"
+             fill="none"
+             gorn="0.4.0.2"
+             id="connector1pin"
+             r="45"
+             stroke="#ffbf00"
+             stroke-width="20" />
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#ffbf00;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+             id="rect3"
+             width="90.000008"
+             height="90.000008"
+             x="498.00006"
+             y="118.5437" />
+        </g>
+        <circle
+           cx="543.54828"
+           cy="360.31525"
+           fill="none"
+           gorn="0.4.0.3"
+           id="connector2pin"
+           r="45"
+           stroke="#ffbf00"
+           stroke-width="20" />
+      </g>
+      <g
+         id="g5"
+         transform="translate(0,600.29136)">
+        <circle
+           cx="358.46445"
+           cy="45.70866"
+           fill="#000000"
+           gorn="0.4.0.0"
+           id="via3"
+           stroke="none"
+           stroke-width="20"
+           inkscape:label="mechanical non connecting via3"
+           r="30"
+           style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-opacity:1" />
+        <circle
+           cx="358.46445"
+           cy="478.78891"
+           fill="#000000"
+           gorn="0.4.0.1"
+           id="via4"
+           r="30"
+           stroke="none"
+           stroke-width="20"
+           inkscape:label="mechanical non connecting via4"
+           style="fill:none;stroke:#ffbf00;stroke-opacity:1" />
+        <g
+           id="g4">
+          <circle
+             cx="543.54828"
+             cy="163.46484"
+             fill="none"
+             gorn="0.4.0.2"
+             id="connector3pin"
+             r="45"
+             stroke="#ffbf00"
+             stroke-width="20" />
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#ffbf00;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4"
+             width="90.000008"
+             height="90.000008"
+             x="498.00006"
+             y="118.5437" />
+        </g>
+        <circle
+           cx="543.54828"
+           cy="360.31525"
+           fill="none"
+           gorn="0.4.0.3"
+           id="connector4pin"
+           r="45"
+           stroke="#ffbf00"
+           stroke-width="20" />
+      </g>
+    </g>
+  </g>
+</svg>
