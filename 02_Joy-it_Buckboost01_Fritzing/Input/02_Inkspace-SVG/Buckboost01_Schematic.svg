@@ -28,12 +28,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="12.944661"
-     inkscape:cx="12.746568"
-     inkscape:cy="43.685964"
-     inkscape:window-width="2400"
-     inkscape:window-height="1421"
-     inkscape:window-x="2391"
-     inkscape:window-y="-9"
+     inkscape:cx="12.707942"
+     inkscape:cy="48.166576"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showgrid="true">
@@ -148,22 +148,22 @@
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:19.99999927;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,100 H 299.99998 v 0"
-       id="path15"
+       id="connector0pin"
        inkscape:label="path15_Pin_1_Selectable_part" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,300 H 299.99998 v 0"
-       id="path16"
+       id="connector1pin"
        inkscape:label="path16__Pin_2_Selectable_part" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,600 H 299.99998"
-       id="path17"
+       id="connector2pin"
        inkscape:label="path17_Pin_3_Selectable_part" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,800.00001 H 299.99998"
-       id="path18"
+       id="connector3pin"
        inkscape:label="path18_Pin_4_Selectable_part" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;paint-order:stroke fill markers"

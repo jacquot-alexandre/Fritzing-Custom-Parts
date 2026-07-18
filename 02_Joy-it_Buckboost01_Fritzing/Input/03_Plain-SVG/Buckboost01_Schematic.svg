@@ -71,19 +71,19 @@
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:19.99999927;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,100 H 299.99998 v 0"
-       id="path15" />
+       id="connector0pin" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,300 H 299.99998 v 0"
-       id="path16" />
+       id="connector1pin" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,600 H 299.99998"
-       id="path17" />
+       id="connector2pin" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 99.999994,800.00001 H 299.99998"
-       id="path18" />
+       id="connector3pin" />
     <path
        style="fill:#1f241c;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4.7;stroke-dasharray:none;paint-order:stroke fill markers"
        d="M 342.00073,37.821256 425.69032,100 341.19602,159.3321 425.69032,100 Z"

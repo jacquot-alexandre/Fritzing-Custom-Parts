@@ -9,7 +9,7 @@
    width="15.240001mm"
    x="0in"
    y="0in"
-   sodipodi:docname="Buckboost01_Schematic_pcb.svg"
+   sodipodi:docname="Buckboost01_pcb.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,14 +30,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="9.3797531"
-     inkscape:cx="2.2388649"
-     inkscape:cy="50.907524"
+     inkscape:cx="2.2921712"
+     inkscape:cy="50.800911"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="silkscreen">
+     inkscape:current-layer="copper0">
     <inkscape:grid
        id="grid2"
        units="mm"
@@ -163,10 +163,10 @@
            cy="45.70866"
            fill="#000000"
            gorn="0.4.0.0"
-           id="via1"
+           id="connector4pad"
            stroke="none"
            stroke-width="20"
-           inkscape:label="mechanical non connecting via1"
+           inkscape:label="mechanical non connecting plated through hole 1"
            r="30"
            style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-opacity:1" />
         <circle
@@ -174,11 +174,11 @@
            cy="478.78891"
            fill="#000000"
            gorn="0.4.0.1"
-           id="via2"
+           id="connector5pad"
            r="30"
            stroke="none"
            stroke-width="20"
-           inkscape:label="mechanical non connecting via2"
+           inkscape:label="mechanical non connecting plated through hole 2"
            style="fill:none;stroke:#ffbf00;stroke-opacity:1" />
         <g
            id="g3">
@@ -187,27 +187,30 @@
              cy="163.46484"
              fill="none"
              gorn="0.4.0.2"
-             id="connector1pin"
+             id="connector0pin"
              r="45"
              stroke="#ffbf00"
-             stroke-width="20" />
+             stroke-width="20"
+             inkscape:label="connector1pin" />
           <rect
              style="fill:none;fill-rule:evenodd;stroke:#ffbf00;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
-             id="rect3"
+             id="connector0terminal"
              width="90.000008"
              height="90.000008"
              x="498.00006"
-             y="118.5437" />
+             y="118.5437"
+             inkscape:label="connector1terminal" />
         </g>
         <circle
            cx="543.54828"
            cy="360.31525"
            fill="none"
            gorn="0.4.0.3"
-           id="connector2pin"
+           id="connector1pin"
            r="45"
            stroke="#ffbf00"
-           stroke-width="20" />
+           stroke-width="20"
+           inkscape:label="connector2pin" />
       </g>
       <g
          id="g5"
@@ -217,10 +220,10 @@
            cy="45.70866"
            fill="#000000"
            gorn="0.4.0.0"
-           id="via3"
+           id="connector6pad"
            stroke="none"
            stroke-width="20"
-           inkscape:label="mechanical non connecting via3"
+           inkscape:label="mechanical non connecting plated through hole 3"
            r="30"
            style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-opacity:1" />
         <circle
@@ -228,11 +231,11 @@
            cy="478.78891"
            fill="#000000"
            gorn="0.4.0.1"
-           id="via4"
+           id="connector7pad"
            r="30"
            stroke="none"
            stroke-width="20"
-           inkscape:label="mechanical non connecting via4"
+           inkscape:label="mechanical non connecting plated through hole 4"
            style="fill:none;stroke:#ffbf00;stroke-opacity:1" />
         <g
            id="g4">
@@ -241,13 +244,14 @@
              cy="163.46484"
              fill="none"
              gorn="0.4.0.2"
-             id="connector3pin"
+             id="connector2pin"
              r="45"
              stroke="#ffbf00"
-             stroke-width="20" />
+             stroke-width="20"
+             inkscape:label="connector3pin" />
           <rect
              style="fill:none;fill-rule:evenodd;stroke:#ffbf00;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
-             id="rect4"
+             id="connector2terminal"
              width="90.000008"
              height="90.000008"
              x="498.00006"
@@ -258,10 +262,11 @@
            cy="360.31525"
            fill="none"
            gorn="0.4.0.3"
-           id="connector4pin"
+           id="connector3pin"
            r="45"
            stroke="#ffbf00"
-           stroke-width="20" />
+           stroke-width="20"
+           inkscape:label="connector4pin" />
       </g>
     </g>
   </g>
