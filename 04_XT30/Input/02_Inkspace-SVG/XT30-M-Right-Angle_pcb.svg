@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   shape-rendering="crispEdges"
+   viewBox="0 0 603.54824 522.23302"
+   x="0in"
+   width="0.60354823in"
+   height="0.52223301in"
+   version="1.2"
+   y="0in"
+   id="svg2"
+   sodipodi:docname="XT30-M-Right-Angle_pcb.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="16.256313"
+     inkscape:cx="29.004117"
+     inkscape:cy="27.650796"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25" />
+  <desc
+     id="desc4">
+    <referenceFile>XT30PW-M_1_pcb.svg</referenceFile>
+  </desc>
+  <g
+     id="silkscreen">
+    <rect
+       id="rect2"
+       width="233.70094"
+       height="346.45676"
+       x="4.9999199"
+       y="88.464485"
+       fill="none"
+       stroke="#000000"
+       stroke-width="9.99984" />
+    <path
+       id="upper"
+       d="m 319.96054,36.49624 c 0.65157,-20.003921 19.45819,-31.1801005 39.37007,-31.4960605 20.40181,0.0923 39.65215,15.8908295 39.37008,31.4960605 v 82.67716 h 78.74015 v 299.21257 h -78.74015 v 78.74016 c -8.26022,14.66691 -20.8415,22.13205 -39.37008,19.68503 -26.76067,1.83052 -34.59309,-7.98713 -39.37007,-19.68503 v -35.43307 l -80.96062,0.30694 c 0,0 -0.41928,-388.700766 -0.37796,-390.070692 h 81.33858 z"
+       fill="none"
+       stroke="#000000"
+       stroke-width="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.7778px;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;paint-order:stroke fill markers"
+       x="249.15547"
+       y="244.13593"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke-width:0"
+         x="249.15547"
+         y="244.13593">XT30</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0"
+         x="249.15547"
+         y="278.85818"
+         id="tspan2">Right angle</tspan></text>
+  </g>
+  <g
+     id="copper1">
+    <g
+       id="copper0">
+      <circle
+         stroke-width="20"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector0pin"
+         cy="163.46484"
+         r="45"
+         cx="543.54828" />
+      <circle
+         cx="359"
+         cy="47"
+         fill="#000000"
+         gorn="0.4.0.0"
+         id="connector1pad"
+         stroke="none"
+         stroke-width="20"
+         inkscape:label="mechanical non connecting plated through hole 1"
+         r="30"
+         style="fill:none;fill-opacity:1;stroke:#ffbf00;stroke-opacity:1" />
+      <circle
+         cx="359"
+         cy="480.08026"
+         fill="#000000"
+         gorn="0.4.0.1"
+         id="circle2"
+         r="30"
+         stroke="none"
+         stroke-width="20"
+         inkscape:label="mechanical non connecting plated through hole 2"
+         style="fill:none;stroke:#ffbf00;stroke-opacity:1" />
+      <circle
+         stroke-width="20"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector3pad"
+         gorn="0.2.0.2"
+         cx="543.48553"
+         cy="360.35449"
+         r="45"
+         inkscape:label="connector3pad" />
+      <circle
+         stroke-width="20"
+         stroke="#ffbf00"
+         fill="none"
+         id="connector2pad"
+         gorn="0.2.0.1"
+         cx="-163"
+         cy="543.50128"
+         r="45"
+         transform="rotate(-90)"
+         inkscape:label="connector2pad" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffbf00;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="90"
+         height="90.000008"
+         x="498.00003"
+         y="118.00001" />
+    </g>
+  </g>
+</svg>
