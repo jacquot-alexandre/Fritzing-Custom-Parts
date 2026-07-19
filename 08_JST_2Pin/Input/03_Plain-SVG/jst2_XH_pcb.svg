@@ -2,61 +2,37 @@
 <!-- Created with Fritzing (https://fritzing.org/) -->
 
 <svg
-   height="15.26mm"
-   viewBox="0 0 18.801 43.256707"
+   height="7.77mm"
+   viewBox="0 0 18.801 22.025204"
    width="6.632575mm"
-   id="svg148"
+   id="svg812"
    x="0in"
    version="1.2"
    y="0in"
    gorn="0"
-   sodipodi:docname="jst5_pcb.svg"
-   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview32"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="12.213133"
-     inkscape:cx="9.7026701"
-     inkscape:cy="24.195266"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="copper1" />
   <desc
      id="desc2">
-    <referenceFile>stephena-jst4_aaa2d2a14434f18e4ffd8bb5e9652fa7_12_pcb.svg</referenceFile>
+    <referenceFile>stephena-jst2_a91f2c20c7d7a49f1e85eeadb05addb1_9_pcb.svg</referenceFile>
   </desc>
   <defs
-     id="defs152" />
+     id="defs816" />
   <g
      id="silkscreen"
      gorn="0.4.0">
     <line
-       y2="42.290771"
+       y2="21.030924"
        x1="0.34599999"
        id="line7"
-       stroke-width="0.824125"
+       stroke-width="0.75"
        stroke="#000000"
        gorn="0.4.0.0"
        x2="0.34599999"
        fill="none"
        y1="1.041" />
     <line
-       y2="37.021305"
+       y2="15.761459"
        x1="14.485"
        id="line9"
        stroke-width="0.75"
@@ -64,17 +40,17 @@
        gorn="0.4.0.1"
        x2="17.354"
        fill="none"
-       y1="37.021305" />
+       y1="15.761459" />
     <line
        y2="5.842"
        x1="16.281"
        id="line11"
-       stroke-width="0.853195"
+       stroke-width="0.75"
        stroke="#000000"
        gorn="0.4.0.2"
        x2="16.281"
        fill="none"
-       y1="37.023106" />
+       y1="15.763262" />
     <line
        y2="0.36000001"
        x1="17.007999"
@@ -89,14 +65,14 @@
        y2="0.72000003"
        x1="12.252"
        id="line4338"
-       stroke-width="0.822843"
+       stroke-width="0.75"
        stroke="#000000"
        gorn="0.4.0.4"
        x2="12.252"
        fill="none"
-       y1="42.59906" />
+       y1="21.339216" />
     <line
-       y2="42.88052"
+       y2="21.620672"
        x1="0.38499999"
        id="line4342"
        stroke-width="0.75"
@@ -104,7 +80,7 @@
        gorn="0.4.0.5"
        x2="17.007999"
        fill="none"
-       y1="42.88052" />
+       y1="21.620672" />
     <line
        y2="5.842"
        x1="14.485"
@@ -118,10 +94,11 @@
   </g>
   <g
      id="copper1"
-     gorn="0.2.0.0"
-     display="inline">
+     gorn="0.2.0.0">
     <g
-       id="copper0">
+       id="copper0"
+       gorn="0.3.0"
+       display="inline">
       <circle
          cx="8.0380001"
          id="connector0pin"
@@ -134,7 +111,7 @@
       <rect
          height="4.1669998"
          width="4.1760001"
-         id="rect115"
+         id="rect779"
          stroke-width="1.44"
          stroke="#f7bd13"
          x="5.9499998"
@@ -148,33 +125,6 @@
          stroke="#f7bd13"
          gorn="0.2.0.0.1"
          cy="14.533"
-         r="2.0880001"
-         fill="none" />
-      <circle
-         id="connector2pin"
-         cx="8.0380001"
-         stroke-width="1.44"
-         stroke="#f7bd13"
-         gorn="0.2.0.0.2"
-         cy="21.621"
-         r="2.0880001"
-         fill="none" />
-      <circle
-         id="connector3pin"
-         cx="8.0380001"
-         stroke-width="1.44"
-         stroke="#f7bd13"
-         gorn="0.2.0.0.3"
-         cy="28.708162"
-         r="2.0880001"
-         fill="none" />
-      <circle
-         id="connector4pin"
-         cx="8.0380001"
-         stroke-width="1.44"
-         stroke="#f7bd13"
-         gorn="0.2.0.0.3"
-         cy="35.794777"
          r="2.0880001"
          fill="none" />
     </g>

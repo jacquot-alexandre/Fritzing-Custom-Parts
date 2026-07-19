@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   gorn="0"
+   height="0.58200002in"
+   id="svg197"
+   version="1.2"
+   viewBox="0 0 14.4 41.903985"
+   width="0.2in"
+   x="0in"
+   y="0in"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <desc
+     id="desc1">
+    <referenceFile>stephena-jst4_aaa2d2a14434f18e4ffd8bb5e9652fa7_12_schematic.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs201" />
+  <g
+     gorn="0.2"
+     id="schematic">
+    <line
+       fill="none"
+       gorn="0.2.0"
+       id="connector0pin"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="0.34999999"
+       x2="7.4710002"
+       y1="3.5999999"
+       y2="3.5999999" />
+    <rect
+       fill="none"
+       gorn="0.2.1"
+       height="0.208"
+       id="connector0terminal"
+       width="0.546"
+       x="-0.273"
+       y="3.5039999" />
+    <polyline
+       fill="none"
+       gorn="0.2.2"
+       id="polyline6"
+       points="9.898,1.643,14.1,3.6,9.898,5.556"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7" />
+    <line
+       fill="none"
+       gorn="0.2.3"
+       id="line"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="14.1"
+       x2="4.7810001"
+       y1="3.5999999"
+       y2="3.5999999" />
+    <path
+       aria-label="1"
+       class="text"
+       d="m 5.2224996,2.5799999 h -0.215 v -1.2475 q 0,-0.1075 0.0025,-0.1725 0.0025,-0.065 0.0075,-0.135 -0.04,0.04 -0.0725,0.0675 -0.0325,0.0275 -0.0825,0.07 l -0.19,0.155 -0.115,-0.1475 0.4825,-0.37499998 h 0.1825 z"
+       fill="#8c8c8c"
+       font-size="2px"
+       gorn="0.2.4"
+       id="text9"
+       stroke-width="0"
+       style="font-family:'Droid Sans';text-anchor:middle" />
+    <line
+       fill="none"
+       gorn="0.2.5"
+       id="connector1pin"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="0.34999999"
+       x2="7.4710002"
+       y1="10.8"
+       y2="10.8" />
+    <rect
+       fill="none"
+       gorn="0.2.6"
+       height="0.208"
+       id="connector1terminal"
+       width="0.546"
+       x="-0.273"
+       y="10.704" />
+    <polyline
+       fill="none"
+       gorn="0.2.7"
+       id="polyline13"
+       points="9.898,8.843,14.1,10.8,9.898,12.756"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7" />
+    <line
+       fill="none"
+       gorn="0.2.8"
+       id="line15"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="14.1"
+       x2="4.7810001"
+       y1="10.8"
+       y2="10.8" />
+    <path
+       aria-label="2"
+       class="text"
+       d="m 5.6349996,9.7799997 h -1.18 v -0.1825 l 0.4675,-0.4725 q 0.135,-0.135 0.2275,-0.24 0.0925,-0.105 0.14,-0.205 0.0475,-0.1025 0.0475,-0.2225 0,-0.1475 -0.0875,-0.2225 -0.0875,-0.0775 -0.2275,-0.0775 -0.13,0 -0.23,0.045 -0.0975,0.045 -0.2,0.125 l -0.1175,-0.1475 q 0.105,-0.0875 0.24,-0.1475 0.1375,-0.0625 0.3075,-0.0625 0.25,0 0.395,0.1275 0.145,0.125 0.145,0.3475 0,0.14 -0.0575,0.2625 -0.0575,0.1225 -0.16,0.2425 -0.1025,0.1175 -0.24,0.2525 l -0.3725,0.3675 v 0.01 h 0.9025 z"
+       fill="#8c8c8c"
+       font-size="2px"
+       gorn="0.2.9"
+       id="text17"
+       stroke-width="0"
+       style="font-family:'Droid Sans';text-anchor:middle" />
+    <line
+       fill="none"
+       gorn="0.2.10"
+       id="connector2pin"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="0.34999999"
+       x2="7.4710002"
+       y1="18"
+       y2="18" />
+    <rect
+       fill="none"
+       gorn="0.2.11"
+       height="0.208"
+       id="connector2terminal"
+       width="0.546"
+       x="-0.273"
+       y="17.903999" />
+    <polyline
+       fill="none"
+       gorn="0.2.12"
+       id="polyline21"
+       points="9.898,16.043,14.1,18,9.898,19.956"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7" />
+    <line
+       fill="none"
+       gorn="0.2.13"
+       id="line23"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="14.1"
+       x2="4.7810001"
+       y1="18"
+       y2="18" />
+    <path
+       aria-label="3"
+       class="text"
+       d="m 5.5674996,15.6125 q 0,0.18 -0.1,0.2875 -0.1,0.105 -0.27,0.14 v 0.01 q 0.215,0.025 0.32,0.135 0.105,0.11 0.105,0.2875 0,0.155 -0.0725,0.2775 -0.0725,0.12 -0.225,0.1875 -0.15,0.0675 -0.3875,0.0675 -0.14,0 -0.26,-0.0225 -0.12,-0.02 -0.23,-0.075 v -0.205 q 0.1125,0.055 0.2425,0.0875 0.13,0.03 0.25,0.03 0.24,0 0.345,-0.0925 0.1075,-0.095 0.1075,-0.26 0,-0.1675 -0.1325,-0.24 -0.13,-0.075 -0.3675,-0.075 h -0.1725 V 15.965 h 0.175 q 0.22,0 0.3325,-0.0925 0.115,-0.0925 0.115,-0.245 0,-0.13 -0.0875,-0.2 -0.0875,-0.0725 -0.2375,-0.0725 -0.145,0 -0.2475,0.0425 -0.1025,0.0425 -0.2025,0.1075 l -0.11,-0.15 q 0.095,-0.075 0.235,-0.13 0.1425,-0.055 0.3225,-0.055 0.28,0 0.415,0.125 0.1375,0.125 0.1375,0.3175 z"
+       fill="#8c8c8c"
+       font-size="2px"
+       gorn="0.2.14"
+       id="text25"
+       stroke-width="0"
+       style="font-family:'Droid Sans';text-anchor:middle" />
+    <line
+       fill="none"
+       gorn="0.2.15"
+       id="connector3pin"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="0.34999999"
+       x2="7.4710002"
+       y1="25.170496"
+       y2="25.170496" />
+    <rect
+       fill="none"
+       gorn="0.2.16"
+       height="0.208"
+       id="connector3terminal"
+       width="0.546"
+       x="-0.273"
+       y="25.074495" />
+    <g
+       transform="translate(0,7.1704958)"
+       id="g3">
+      <g
+         id="g2">
+        <g
+           id="g1">
+          <polyline
+             fill="none"
+             gorn="0.2.17.0.0.0"
+             id="polyline945"
+             points="9.898,16.043,14.1,18,9.898,19.956"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="0.7" />
+        </g>
+      </g>
+    </g>
+    <line
+       fill="none"
+       gorn="0.2.18"
+       id="line947"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="14.1"
+       x2="4.7810001"
+       y1="25.170496"
+       y2="25.170496" />
+    <path
+       aria-label="4"
+       class="text"
+       d="m 5.7149996,23.745496 h -0.26 v 0.405 h -0.2125 v -0.405 h -0.855 v -0.1875 l 0.84,-1.2025 h 0.2275 v 1.1925 h 0.26 z m -0.4725,-0.76 q 0,-0.13 0.005,-0.22 0.005,-0.0925 0.0075,-0.175 h -0.01 q -0.02,0.0475 -0.05,0.1025 -0.03,0.055 -0.0575,0.0925 l -0.535,0.7625 h 0.64 z"
+       fill="#8c8c8c"
+       font-size="2px"
+       gorn="0.2.19"
+       id="text949"
+       stroke-width="0"
+       style="font-family:'Droid Sans';text-anchor:middle" />
+    <line
+       fill="none"
+       gorn="0.2.20"
+       id="connector5pin"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="0.34999999"
+       x2="7.4710002"
+       y1="32.370495"
+       y2="32.370495" />
+    <rect
+       fill="none"
+       gorn="0.2.21"
+       height="0.208"
+       id="connector5terminal"
+       width="0.546"
+       x="-0.273"
+       y="32.274494" />
+    <path
+       aria-label="5"
+       class="text"
+       d="m 5.0224996,30.255494 q 0.275,0 0.4375,0.1375 0.1625,0.1375 0.1625,0.3875 0,0.2775 -0.1775,0.4375 -0.175,0.1575 -0.49,0.1575 -0.1375,0 -0.26,-0.025 -0.12,-0.025 -0.2025,-0.0725 v -0.2075 q 0.09,0.055 0.2175,0.0875 0.13,0.03 0.2475,0.03 0.1975,0 0.3175,-0.0925 0.1225,-0.095 0.1225,-0.2925 0,-0.175 -0.1075,-0.2675 -0.1075,-0.095 -0.34,-0.095 -0.07,0 -0.16,0.0125 -0.09,0.0125 -0.145,0.025 l -0.11,-0.07 0.0675,-0.8425 h 0.895 v 0.2 h -0.7075 l -0.0425,0.5175 q 0.0425,-0.0075 0.115,-0.0175 0.0725,-0.01 0.16,-0.01 z"
+       fill="#8c8c8c"
+       font-size="2px"
+       gorn="0.2.24"
+       id="text2"
+       stroke-width="0"
+       style="font-family:'Droid Sans';text-anchor:middle" />
+    <g
+       transform="translate(0,14.370494)"
+       id="g6">
+      <g
+         id="g5">
+        <g
+           id="g4">
+          <polyline
+             fill="none"
+             gorn="0.2.22.0.0.0"
+             id="polyline1"
+             points="9.898,16.043,14.1,18,9.898,19.956"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="0.7" />
+        </g>
+      </g>
+    </g>
+    <line
+       fill="none"
+       gorn="0.2.23"
+       id="line2"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="14.1"
+       x2="4.7810001"
+       y1="32.370495"
+       y2="32.370495" />
+    <line
+       fill="none"
+       gorn="0.2.20"
+       id="connector6pin"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="0.34999999"
+       x2="7.4710002"
+       y1="39.570492"
+       y2="39.570492" />
+    <rect
+       fill="none"
+       gorn="0.2.21"
+       height="0.208"
+       id="connector6terminal"
+       width="0.546"
+       x="-0.273"
+       y="39.474491" />
+    <g
+       transform="translate(0,21.570492)"
+       id="g9">
+      <g
+         id="g8">
+        <g
+           id="g7">
+          <polyline
+             fill="none"
+             gorn="0.2.22.0.0.0"
+             id="polyline7"
+             points="9.898,16.043,14.1,18,9.898,19.956"
+             stroke="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="0.7" />
+        </g>
+      </g>
+    </g>
+    <line
+       fill="none"
+       gorn="0.2.23"
+       id="line9"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.7"
+       x1="14.1"
+       x2="4.7810001"
+       y1="39.570492"
+       y2="39.570492" />
+    <path
+       style="font-size:2.3px;line-height:1.15;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;fill:#8c8c8c;fill-opacity:0.933333;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;paint-order:stroke fill markers"
+       d="m 4.4639991,37.778328 q 0,-0.11792 0.01123,-0.234717 0.012354,-0.116797 0.041553,-0.223486 0.030322,-0.107813 0.081982,-0.199902 0.05166,-0.09209 0.1313965,-0.159473 0.079736,-0.06851 0.1909179,-0.10669 0.1111817,-0.03931 0.2605469,-0.03931 0.021338,0 0.047168,0.0011 0.02583,0.0011 0.05166,0.0045 0.026953,0.0022 0.050537,0.0067 0.024707,0.0034 0.043799,0.009 v 0.174072 q -0.039307,-0.01348 -0.088721,-0.02022 -0.049414,-0.0067 -0.097705,-0.0067 -0.1010742,0 -0.1785645,0.02471 -0.076367,0.02358 -0.1325195,0.06738 -0.056152,0.0438 -0.094336,0.104443 -0.037061,0.06065 -0.060644,0.134766 -0.023584,0.073 -0.034815,0.156103 -0.01123,0.08311 -0.0146,0.172949 h 0.013477 q 0.022461,-0.04043 0.053906,-0.07524 0.032568,-0.03594 0.075244,-0.06064 0.042676,-0.02583 0.095459,-0.04043 0.053906,-0.0146 0.120166,-0.0146 0.1066895,0 0.1931641,0.03369 0.086475,0.03257 0.1471191,0.09658 0.060645,0.06401 0.093213,0.157226 0.033691,0.09209 0.033691,0.211133 0,0.128028 -0.034814,0.230225 -0.034814,0.102197 -0.099951,0.174072 -0.065137,0.07075 -0.1572266,0.108936 -0.09209,0.03818 -0.2066406,0.03818 -0.1123047,0 -0.2111328,-0.0438 -0.097705,-0.0438 -0.1695801,-0.133642 -0.071875,-0.08984 -0.1134277,-0.225733 -0.041553,-0.135888 -0.041553,-0.321191 z m 0.5334472,0.552539 q 0.067383,0 0.1224121,-0.02246 0.056152,-0.02358 0.096582,-0.06963 0.04043,-0.04717 0.061768,-0.11792 0.022461,-0.07187 0.022461,-0.16958 0,-0.07861 -0.019092,-0.140381 -0.017969,-0.06289 -0.055029,-0.106689 -0.037061,-0.0438 -0.093213,-0.06738 -0.055029,-0.02358 -0.1291504,-0.02358 -0.075244,0 -0.1381347,0.02695 -0.061768,0.02583 -0.1055665,0.06851 -0.043799,0.04155 -0.068506,0.09546 -0.023584,0.05391 -0.023584,0.107813 0,0.07524 0.020215,0.150488 0.021338,0.07412 0.061768,0.133642 0.041553,0.05952 0.1033203,0.0977 0.061768,0.03706 0.14375,0.03706 z"
+       id="text1"
+       aria-label="6" />
+  </g>
+</svg>

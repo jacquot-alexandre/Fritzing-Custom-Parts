@@ -121,8 +121,7 @@
      gorn="0.2.0.0"
      display="inline">
     <g
-       id="g7"
-       gorn="0.2.0.0.0">
+       id="copper0">
       <circle
          cx="8.0380001"
          id="connector0pin"
@@ -142,94 +141,40 @@
          y="5.3629999"
          gorn="0.2.0.0.0.1"
          fill="none" />
-    </g>
-    <circle
-       id="connector1pin"
-       cx="8.0380001"
-       stroke-width="1.44"
-       stroke="#f7bd13"
-       gorn="0.2.0.0.1"
-       cy="14.533"
-       r="2.0880001"
-       fill="none" />
-    <circle
-       id="connector2pin"
-       cx="8.0380001"
-       stroke-width="1.44"
-       stroke="#f7bd13"
-       gorn="0.2.0.0.2"
-       cy="21.621"
-       r="2.0880001"
-       fill="none" />
-    <circle
-       id="connector3pin"
-       cx="8.0380001"
-       stroke-width="1.44"
-       stroke="#f7bd13"
-       gorn="0.2.0.0.3"
-       cy="28.708162"
-       r="2.0880001"
-       fill="none" />
-    <circle
-       id="connector4pin"
-       cx="8.0380001"
-       stroke-width="1.44"
-       stroke="#f7bd13"
-       gorn="0.2.0.0.3"
-       cy="35.794777"
-       r="2.0880001"
-       fill="none" />
-    <g
-       id="copper0"
-       gorn="0.3.0">
-      <g
-         id="g128"
-         gorn="0.3.0.0">
-        <circle
-           cx="8.0380001"
-           id="circle124"
-           stroke-width="1.44"
-           stroke="#f7bd13"
-           gorn="0.3.0.0.0"
-           cy="7.447"
-           r="2.0880001"
-           fill="none" />
-        <rect
-           height="4.1669998"
-           width="4.1760001"
-           id="rect126"
-           stroke-width="1.44"
-           stroke="#f7bd13"
-           x="5.9499998"
-           y="5.3629999"
-           gorn="0.3.0.0.1"
-           fill="none" />
-      </g>
       <circle
-         id="circle130"
+         id="connector1pin"
          cx="8.0380001"
          stroke-width="1.44"
          stroke="#f7bd13"
-         gorn="0.3.0.1"
+         gorn="0.2.0.0.1"
          cy="14.533"
          r="2.0880001"
          fill="none" />
       <circle
-         id="circle132"
+         id="connector2pin"
          cx="8.0380001"
          stroke-width="1.44"
          stroke="#f7bd13"
-         gorn="0.3.0.2"
+         gorn="0.2.0.0.2"
          cy="21.621"
          r="2.0880001"
          fill="none" />
       <circle
-         id="circle894"
+         id="connector3pin"
          cx="8.0380001"
          stroke-width="1.44"
          stroke="#f7bd13"
-         gorn="0.3.0.3"
+         gorn="0.2.0.0.3"
          cy="28.708162"
+         r="2.0880001"
+         fill="none" />
+      <circle
+         id="connector4pin"
+         cx="8.0380001"
+         stroke-width="1.44"
+         stroke="#f7bd13"
+         gorn="0.2.0.0.3"
+         cy="35.794777"
          r="2.0880001"
          fill="none" />
     </g>

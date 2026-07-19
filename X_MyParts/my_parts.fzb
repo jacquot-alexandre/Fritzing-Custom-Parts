@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.5.2025-04-02.CD-2185-0-b9add9ea" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Joy-It-Buckboost01_a1148f7e0097ad8379481d359227ade0_6" modelIndex="85421469" path="C:/Users/Ich/Documents/Fritzing/parts/user/Joy-It-Buckboost01_a1148f7e0097ad8379481d359227ade0_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="H-Tronic_Solarladeregler_89c1ad7d50aa0a65df09403defea0993_3" modelIndex="85421470" path="C:/Users/Ich/Documents/Fritzing/parts/user/H-Tronic_Solarladeregler_89c1ad7d50aa0a65df09403defea0993_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="XT30-M-Right-Angle_1d844cef0e14e2482d37f6fa2bcd11cf_5" modelIndex="85421471" path="C:/Users/Ich/Documents/Fritzing/parts/user/XT30-M-Right-Angle_1d844cef0e14e2482d37f6fa2bcd11cf_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Solar-Panel" modelIndex="85421472" path="C:/Users/Ich/Documents/Fritzing/parts/user/Solar-Panel.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="gear-motor_2" modelIndex="85421473" path="C:/Program Files/Fritzing/fritzing-parts/core/gear-motor_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="L298N motor driver_ed29594eba4fbd330bd92441a17764ea_15" modelIndex="85421474" path="C:/Users/Ich/Documents/Fritzing/parts/user/L298N motor driver_ed29594eba4fbd330bd92441a17764ea_15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="5703" path="C:/Program Files/Fritzing/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="stephena-jst2_a91f2c20c7d7a49f1e85eeadb05addb1_1" modelIndex="85421475" path="C:/Users/Ich/Documents/Fritzing/parts/user/stephena-jst2_a91f2c20c7d7a49f1e85eeadb05addb1_1.fzp">
+            <property name="part number" value="B2B-XH-A"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="stephena-jst3_4f370cea421f1d9b165c698f297e9744_1" modelIndex="85421476" path="C:/Users/Ich/Documents/Fritzing/parts/user/stephena-jst3_4f370cea421f1d9b165c698f297e9744_1.fzp">
+            <property name="part number" value="B3B-XH-A"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="stephena-jst4_e6efa2c6a4833882dfa339f423223048_1" modelIndex="85421477" path="C:/Users/Ich/Documents/Fritzing/parts/user/stephena-jst4_e6efa2c6a4833882dfa339f423223048_1.fzp">
+            <property name="part number" value="B4B-XH-A"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="jst5-xh_bd6ed0d51f81794679f62ceebedeb078_1" modelIndex="85421492" path="C:/Users/Ich/Documents/Fritzing/parts/user/jst5-xh_bd6ed0d51f81794679f62ceebedeb078_1.fzp">
+            <property name="part number" value="XH"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="jst6-xh_802954ed8292010b4d2a0f754927ab01_8" modelIndex="85421479" path="C:/Users/Ich/Documents/Fritzing/parts/user/jst6-xh_802954ed8292010b4d2a0f754927ab01_8.fzp">
+            <property name="part number" value="XH"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="jst7-xh_607f9364564dc5e987b7be007ef895ac_1" modelIndex="85421480" path="C:/Users/Ich/Documents/Fritzing/parts/user/jst7-xh_607f9364564dc5e987b7be007ef895ac_1.fzp">
+            <property name="part number" value="XH"/>
+            <views/>
+        </instance>
+    </instances>
+</module>
