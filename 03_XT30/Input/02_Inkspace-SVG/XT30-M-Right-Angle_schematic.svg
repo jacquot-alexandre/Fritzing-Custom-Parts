@@ -28,7 +28,7 @@
      inkscape:document-units="in"
      inkscape:zoom="35.078632"
      inkscape:cx="12.757054"
-     inkscape:cy="8.2243799"
+     inkscape:cy="8.22438"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -268,5 +268,27 @@
        width="10"
        y="34.55228"
        stroke-width="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.7778px;line-height:1.15;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#8c8c8c;fill-opacity:0.933333;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;paint-order:stroke fill markers"
+       x="125.90762"
+       y="67.111137"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0"
+         x="125.90762"
+         y="67.111137">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.7778px;line-height:1.15;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#8c8c8c;fill-opacity:0.933333;stroke:#ffbf00;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4.7;paint-order:stroke fill markers"
+       x="127.68932"
+       y="163.91747"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0"
+         x="127.68932"
+         y="163.91747">-</tspan></text>
   </g>
 </svg>

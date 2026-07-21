@@ -2,12 +2,6 @@
 <module fritzingVersion="1.0.5.2025-04-02.CD-2185-0-b9add9ea" icon="Mine.png">
     <title>My Parts</title>
     <instances>
-        <instance moduleIdRef="Joy-It-Buckboost01_a1148f7e0097ad8379481d359227ade0_6" modelIndex="85421469" path="C:/Users/Ich/Documents/Fritzing/parts/user/Joy-It-Buckboost01_a1148f7e0097ad8379481d359227ade0_6.fzp">
-            <views/>
-        </instance>
-        <instance moduleIdRef="H-Tronic_Solarladeregler_89c1ad7d50aa0a65df09403defea0993_3" modelIndex="85421470" path="C:/Users/Ich/Documents/Fritzing/parts/user/H-Tronic_Solarladeregler_89c1ad7d50aa0a65df09403defea0993_3.fzp">
-            <views/>
-        </instance>
         <instance moduleIdRef="XT30-M-Right-Angle_1d844cef0e14e2482d37f6fa2bcd11cf_5" modelIndex="85421471" path="C:/Users/Ich/Documents/Fritzing/parts/user/XT30-M-Right-Angle_1d844cef0e14e2482d37f6fa2bcd11cf_5.fzp">
             <views/>
         </instance>
@@ -50,10 +44,19 @@
         <instance moduleIdRef="screw_terminal_2_100mil" modelIndex="85422161" path="C:/Program Files/Fritzing/fritzing-parts/core/screw_terminal_2_100mil.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="generic_female_pin_header_2_100mil" modelIndex="85423665" path="C:/Users/Ich/AppData/Roaming/Fritzing/Fritzing/partfactory/c7b0ceb90fb872961ac5d1bcd1a1c655/core/generic_female_pin_header_2_100mil.fzp">
+        <instance moduleIdRef="generic_female_pin_header_2_100mil" modelIndex="85423665" path="C:/Users/Ich/AppData/Roaming/Fritzing/Fritzing/partfactory/39668d498afd4fc5296b85428459f293/core/generic_female_pin_header_2_100mil.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="generic_female_pin_header_2_100mil" modelIndex="85423666" path="C:/Users/Ich/AppData/Roaming/Fritzing/Fritzing/partfactory/c7b0ceb90fb872961ac5d1bcd1a1c655/core/generic_female_pin_header_2_100mil.fzp">
+        <instance moduleIdRef="generic_female_pin_header_2_100mil" modelIndex="85423666" path="C:/Users/Ich/AppData/Roaming/Fritzing/Fritzing/partfactory/39668d498afd4fc5296b85428459f293/core/generic_female_pin_header_2_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Solar-charge-controller_141944a4cbb14c3489af795475f85103_3" modelIndex="85423679" path="C:/Users/Ich/Documents/Fritzing/parts/user/Solar-charge-controller_141944a4cbb14c3489af795475f85103_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--A-H" modelIndex="85429806" path="C:/Program Files/Fritzing/fritzing-parts/core/sparkfun-connectors-usb--a-h.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joy-It-Buckboost01-Screw-Terminal_cbd76aff624dc812dfab4e6a81101515_4" modelIndex="85429821" path="C:/Users/Ich/Documents/Fritzing/parts/user/Joy-It-Buckboost01-Screw-Terminal_cbd76aff624dc812dfab4e6a81101515_4.fzp">
             <views/>
         </instance>
     </instances>
